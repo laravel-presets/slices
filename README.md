@@ -8,3 +8,12 @@
   <br />
 	Uses <a href="https://hybridly.dev">Hybridly</a> under the hood.
 </div>
+
+<p align="center">
+  <br />
+  <br />
+  ·
+  <br />
+  <br />
+  <sub>Built with ❤︎ by <a href="https://twitter.com/enzoinnocenzi">Enzo Innocenzi</a>
+</p>
