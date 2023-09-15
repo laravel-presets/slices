@@ -20,7 +20,7 @@ export default definePreset({
 
 		await deletePaths({
 			title: 'remove useless code',
-			paths: ['app', 'tests'],
+			paths: ['app', 'tests', 'routes'],
 		})
 
 		await extractTemplates({
